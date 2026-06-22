@@ -1,6 +1,6 @@
 # doc-indexer
 
-Convert Python library API reference documentation to clean Markdown for LLM consumption.
+Convert Python library API reference documentation to clean Markdown for LLM consumption and Agentic Use.
 
 ## Why
 
